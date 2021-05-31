@@ -1,0 +1,11 @@
+Host: privacy.com
+sessionid: E5C74A88-591D-4730-B09E-D4207978A17A
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Connection: keep-alive
+x-device: eyJoYXJkd2FyZSI6eyJkZXZpY2VJZCI6IkU1Qzc0QTg4LTU5MUQtNDczMC1CMDlFLUQ0MjA3OTc4QTE3QSIsImhvc3RuYW1lIjoiaVBob25lIGRlIEluZGlhblRlY2hTdXBwb3J0IiwiaXNFbXVsYXRvciI6ZmFsc2UsImJyYW5kIjoiQXBwbGUiLCJtb2RlbCI6ImlQaG9uZSA2cyJ9LCJ0aW1lc3RhbXAiOiIyMDIxLTA1LTMxVDE4OjU0OjE4LjczMloiLCJzb2Z0d2FyZSI6eyJvc1ZlcnNpb24iOiIxNC42In0sImxvY2FsZSI6eyJsYW5ndWFnZSI6ImZyLUZSIiwiY291bnRyeSI6IkZSIiwidGltZXpvbmUiOiJFdXJvcGUvUGFyaXMifSwibmV0d29yayI6e319
+Cookie: sessionID=ba49033b-970b-4753-8c41-b555024dd962
+User-Agent: privacy-app/2.14.2.4 iOS/14.6
+Content-Length: 68
+Accept-Language: fr-fr
+Accept-Encoding: gzip, deflate, br
